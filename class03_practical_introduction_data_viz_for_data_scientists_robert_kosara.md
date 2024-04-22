@@ -8,7 +8,7 @@ A Practical Introduction to Data Visualization for Data Scientists by Robert Kos
 
 # His content:
 
-[03_practical_introduction_data_viz_for_data_scientists_robert_kosara/README.md](./03_practical_introduction_data_viz_for_data_scientists_robert_kosara/README.md)
+[README.md](03_practical_introduction_data_viz_for_data_scientists_robert_kosara/odsc_visualization/README.md)
 
 
 
