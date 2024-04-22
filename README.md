@@ -11,8 +11,7 @@
 [class01_data_wrangling_with_python_with_Sheamus_McGovern.md](./class01_data_wrangling_with_python_with_Sheamus_McGovern.md)
 
 [class02_introduction_to_math_for_data_science_by_thomas_nield.md](./class02_introduction_to_math_for_data_science_by_thomas_nield.md)
-
-class03_practical_introduction_data_viz_for_data_scientists_robert_kosara.md
+[class03_practical_introduction_data_viz_for_data_scientists_robert_kosara.md](./class03_practical_introduction_data_viz_for_data_scientists_robert_kosara.md)
 
 
 # Slide downloads
