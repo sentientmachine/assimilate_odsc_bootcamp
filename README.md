@@ -1,19 +1,18 @@
 # assimilate_odsc_bootcamp
 
-Goals:
+3 Goals:
 
 1. Reverse Engineer the brain using odsc gain of compute functions.
 2. Find someone who can implement LLVM's and ChatGPT and buy them coffee.
-3. Get a job doing pure research and demos for replicating whatever ChatGPT is doing in modified domains.
+3. Get a job doing pure research and demos for replicating whatever ChatGPT is doing in modified domains.  
 
-# Class list:
+# Class list, clicky
 
+[class01_data_wrangling_with_python_with_Sheamus_McGovern.md](./class01_data_wrangling_with_python_with_Sheamus_McGovern.md)
 
-[class01_data_wrangling_with_python_with_Sheamus_McGovern.md](./class01_data_wrangling_with_python_with_Sheamus_McGovern.md).
+[class02_introduction_to_math_for_data_science_by_thomas_nield.md](./class02_introduction_to_math_for_data_science_by_thomas_nield.md)
 
-class01_data_wrangling_with_python_with_Sheamus_McGovern.md
-
-class02_introduction_to_math_for_data_science_by_thomas_nield.md
+class03_practical_introduction_data_viz_for_data_scientists_robert_kosara.md
 
 
 # Slide downloads
