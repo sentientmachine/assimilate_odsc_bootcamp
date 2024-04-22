@@ -4,8 +4,8 @@ Reverse Engineer the brain using odsc gain of compute functions.
 
 Download the videos,, and get them into my terminal.  They're pretty good.
 
--- I want the ""Introduction to Math for Data Science" video from  "Thomas Nield"
--- The intro to python one was just a refresher, how do variables and hashmaps work, meh
+1. I want the ""Introduction to Math for Data Science" video from  "Thomas Nield"
+2. The intro to python one was just a refresher, how do variables and hashmaps work, meh
 
 Make an organization structure
 
