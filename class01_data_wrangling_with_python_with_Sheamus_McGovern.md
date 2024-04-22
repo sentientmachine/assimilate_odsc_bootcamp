@@ -3,9 +3,18 @@ Get all this:
 Data wrangling with Python
 Sheamus McGovern , CEO and Software Architect, Data Engineer, and AI expert | ODSC Prerequisites/Links:
 
-The Google Drive to run the notebooks on Colab is here: https://bit.ly/3QbBjAw
+Jupyter Notebooks Guide - 
+https://docs.google.com/document/d/1vpASB2kjn_XUGTJNwknhIEDWfK8cMhq7v8vyoggmw5M/edit#heading=h.wp9t8n7j3og
 
-Jupyter Notebooks Guide - https://bit.ly/3JtLSv8
+The Google Drive to run the notebooks on Colab is here: 
+
+
+Jupter Notebook guide:
+https://docs.google.com/document/d/1vpASB2kjn_XUGTJNwknhIEDWfK8cMhq7v8vyoggmw5M/edit
+
+
+
+
 
 Github Repository: https://github.com/odsc2015/data-wrangling-pandas/tree/main
 
@@ -14,4 +23,5 @@ Data Wrangling is the cornerstone of any data-driven project, and Python stands 
 Upon completetion of this short course attendees will be fully equipped with the knowledge and the skills to manage the data lifecycle and turn raw data into actionable insights, setting the stage for advanced data anlaysis and AI applications.
 
 https://colab.research.google.com/#scrollTo=OwuxHmxllTwN
+
 

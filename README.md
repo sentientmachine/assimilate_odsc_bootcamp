@@ -1,22 +1,25 @@
 # assimilate_odsc_bootcamp
 
-Reverse Engineer the brain using odsc gain of compute functions.
+Goal1: Reverse Engineer the brain using odsc gain of compute functions.
+Goal2: Find someone who can implement LLVM's and ChatGPT and buy them coffee.
+Goal3: Get a job doing pure research and demos for replicating whatever ChatGPT is doing in modified domains.
 
-Download the videos,, and get them into my terminal.  They're pretty good.
+# class list
 
-1. I want the ""Introduction to Math for Data Science" video from  "Thomas Nield"
-2. The intro to python one was just a refresher, how do variables and hashmaps work, meh
+# Slide downloads
 
-Make an organization structure
+Great link to all slides, get them all:
+
+https://docs.google.com/spreadsheets/d/1Xmhh1zfVuWgdyS6O-aKnvVJzDA4RVOvrmzDLoMuWOXM/edit#gid=0
+
+# Videos
+
+They said that all vidoes would be available next week.
+Download the videos and get them into my terminal.
 
 See the apple store to fix the battery service, after the conference.
 
 Link this to the new wordpress blog bidirectionally.
-
-Link the terminal to the github.
-
-Going to colab cold open shows some really elite content.
-https://colab.research.google.com/#scrollTo=OwuxHmxllTwN
 
 
 
