@@ -9,7 +9,7 @@ Goals:
 # Class list:
 
 
-[class01_data_wrangling_with_python_with_Sheamus_McGovern](./class01_data_wrangling_with_python_with_Sheamus_McGovern).
+[class01_data_wrangling_with_python_with_Sheamus_McGovern.md](./class01_data_wrangling_with_python_with_Sheamus_McGovern.md).
 
 class01_data_wrangling_with_python_with_Sheamus_McGovern.md
 
