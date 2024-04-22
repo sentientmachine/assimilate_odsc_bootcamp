@@ -8,7 +8,8 @@ Link this to the new wordpress blog bidirectionally.
 
 Link the terminal to the github.
 
-
+Going to colab cold open shows some really elite content.
+https://colab.research.google.com/#scrollTo=OwuxHmxllTwN
 
 
 
