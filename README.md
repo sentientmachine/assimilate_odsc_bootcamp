@@ -2,11 +2,14 @@
 
 Reverse Engineer the brain using odsc gain of compute functions.
 
-= This is a header, right? =
+Download the videos,, and get them into my terminal.  They're pretty good.
 
-Download the videos and get them into my terminal.  They're pretty good.
+-- I want the ""Introduction to Math for Data Science" video from  "Thomas Nield"
+-- The intro to python one was just a refresher, how do variables and hashmaps work, meh
 
-I need the vim coloring to work.  Equals sign, etc.  Like old times.
+Make an organization structure
+
+See the apple store to fix the battery service, after the conference.
 
 Link this to the new wordpress blog bidirectionally.
 
