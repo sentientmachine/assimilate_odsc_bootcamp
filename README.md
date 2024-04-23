@@ -32,10 +32,23 @@ state of the art open source AI with Hugging face
 
 Dive into the lightning ai open source stack and lightning studios to unlock reproducible ai development on the cloud by Luca Antiga.  Lightning AI, CTO.  https://www.linkedin.com/in/lantiga/  Pytorch llightning leading open source framework.
 
-LLM-native products: industry best practices and what's ahead .  By Ivan Lee Datasour.ai CEO/Founder.  
+
+LLM-native products: industry best practices and what's ahead .  By Ivan Lee Datasour.ai CEO/Founder
 The next generation of llm powered productions.
 vip platinum gold silver bootcamp.
 
+
+Good:
+Ben Needs a Friend - An intro to building large language model applicaations.
+by Benjamin Batorsky, PHD Technical Lead d3lve.
+https://www.linkedin.com/in/benjamin-batorsky/
+
+
+
+
+How to Practice Data-Centric AI and Have AI Improve its Own Dataset (DE Summit) with Jonas Mueller , Chief Scientist and Co-Founder | Cleanlab 
+In Machine Learning projects, one starts by exploring the data and training an initial baseline model. While it’s tempting to experiment with different modeling techniques right after that, an emerging science of data-centric AI introduces systematic techniques to utilize the baseline model to find and fix dataset issues. Improving the dataset in this manner, one can drastically improve the initial model’s performance without any change to the modeling code at all! These techniques work with any ML model and the improved dataset can be used to train any type of model (allowing modeling improvements to be stacked on top of dataset improvements). Such automated data curation has been instrumental to the success of AI organizations like OpenAI and Tesla.  
+While data scientists have long been improving data through manual labor, data-centric AI studies algorithms to do this automatically. This tutorial will teach you how to operationalize fundamental ideas from data-centric AI across a wide variety of datasets (image, text, tabular, etc). We will cover recent algorithms to automatically identify common issues in real-world data (label errors, bad data annotators, outliers, low-quality examples, and other dataset problems that once identified can be easily addressed to significantly improve trained models). Open-source code to easily run these algorithms within end-to-end Data Science projects will also be demonstrated. After this tutorial, you will know how to use models to improve your data, in order to immediately retrain better models (and iterate this data/model improvement in a virtuous cycle).
 
 
 
