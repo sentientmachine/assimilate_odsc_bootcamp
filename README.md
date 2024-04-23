@@ -38,10 +38,8 @@ The next generation of llm powered productions.
 vip platinum gold silver bootcamp.
 
 
-Good:
-Ben Needs a Friend - An intro to building large language model applicaations.
-by Benjamin Batorsky, PHD Technical Lead d3lve.
-https://www.linkedin.com/in/benjamin-batorsky/
+
+[class08_ben_needs_a_friend_llvm_benjamin_batorsky.md](./class08_ben_needs_a_friend_llvm_benjamin_batorsky.md)
 
 
 Idiomatic Pandas 2pm to 3pm  with matt harrison metasnake.  python and data science corporate trainer consultant.  ODSC East 2024 Prerequisites 100% Prerequisites to download:
