@@ -85,6 +85,11 @@ While data scientists have long been improving data through manual labor, data-c
 
 ### Linear Algebra with John K Rohn is good
 
+* get Assimilate
+
+https://github.com/jonkrohn/DLTFpT/blob/master/notebooks/deep_net_in_pytorch.ipynb
+
+
 Programming: All code demos will be in Python so experience with it or another object-oriented programming language would be helpful for following along with the code examples.
 
 Mathematics: Familiarity with secondary school-level mathematics will make the class easier to follow along with. If you are comfortable dealing with quantitative information -- such as understanding charts and rearranging simple equations -- then you should be well-prepared to follow along with all of the mathematics.
@@ -97,6 +102,32 @@ Google Drive to Files  https://drive.google.com/drive/folders/1HPiLTf4u-hXJd7IST
 
 Jupyter Notebooks Guide
  https://docs.google.com/document/d/1vpASB2kjn_XUGTJNwknhIEDWfK8cMhq7v8vyoggmw5M/edit#heading=h.wp9t8n7j3og
+
+
+### Data Cleaning
+
+Clean as You Go: Basic Hygiene in the Modern Data Stack (DE Summit)
+Eric Callahan , Principal, Data Solutions | Pickaxe Foundry
+
+When my children walk around the house, they generally leave a trail of mess behind them. They sometimes realize that they shouldn't be doing this, but they’re so excited to move on to the next thing that catches their eye that they’ll say “Oh, I’ll clean it up later.”
+
+As grown adults with wisdom gained from experience, my wife and I know that this means either:
+
+They’ve just signed themselves up for a massive future cleaning job, or … … that someone else will have to clean up after them.
+
+We know that this is not good behavior for a child, so why do we so often do this as Data Engineers?
+
+The culture of “Move Fast and Break Things” has pressured us into closing tickets as quickly as possible, frequently pushing us towards the “Oh, I’ll clean it up later” mindset. While this may save us a few minutes in the short-term, we are creating long term headaches such as:
+
+Piles of small cleanup tasks for later Confusion among peers who try to use incomplete data assets Lack of metadata to activate throughout the Modern Data Stack
+
+
+### Unlock safety and savings mastering a secure cost effective cloud data lake
+
+Ori Nakar Imperva Principal engineer threat research
+
+Jonathan azaria imperva data science tech lead.
+
 
 
 
