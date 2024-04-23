@@ -14,7 +14,7 @@
 
 [class03_practical_introduction_data_viz_for_data_scientists_robert_kosara.md](./class03_practical_introduction_data_viz_for_data_scientists_robert_kosara.md)
 
-[class04_introduction_machine_learning_python_Sudip_Shrestha.md)(./class04_introduction_machine_learning_python_Sudip_Shrestha.md)
+[class04_introduction_machine_learning_python_Sudip_Shrestha.md](./class04_introduction_machine_learning_python_Sudip_Shrestha.md)
 
 # Slide downloads
 
