@@ -27,6 +27,16 @@ state of the art open source AI with Hugging face
 
 [class06_api_for_gpt_andras_zsom.md](./class06_api_for_gpt_andras_zsom.md)
 
+[class07_data_science_biotech_reearch_pharma_eric_ma_phd.md](./class07_data_science_biotech_reearch_pharma_eric_ma_phd.md)
+
+
+Dive into the lightning ai open source stack and lightning studios to unlock reproducible ai development on the cloud by Luca Antiga.  Lightning AI, CTO.  https://www.linkedin.com/in/lantiga/  Pytorch llightning leading open source framework.
+
+LLM-native products: industry best practices and what's ahead .  By Ivan Lee Datasour.ai CEO/Founder.  
+The next generation of llm powered productions.
+vip platinum gold silver bootcamp.
+
+
 
 
 # Slide downloads
