@@ -25,6 +25,7 @@ state of the art open source AI with Hugging face
 [class05_state_of_the_art_open_source_ai_hugging_face_julien_simon.md](./class05_state_of_the_art_open_source_ai_hugging_face_julien_simon.md)
 
 
+Get rebuff API key, get usage hook to chat.openai.com.
 [class06_api_for_gpt_andras_zsom.md](./class06_api_for_gpt_andras_zsom.md)
 
 [class07_data_science_biotech_reearch_pharma_eric_ma_phd.md](./class07_data_science_biotech_reearch_pharma_eric_ma_phd.md)
@@ -106,8 +107,15 @@ Jupyter Notebooks Guide
 
 ### Data Cleaning
 
-Clean as You Go: Basic Hygiene in the Modern Data Stack (DE Summit)
 Eric Callahan , Principal, Data Solutions | Pickaxe Foundry
+https://www.linkedin.com/in/ericcallahan
+
+Cross Entopy loss.  Calculate loss between two bell distributions of priors and models given.
+https://en.wikipedia.org/wiki/Cross-entropy
+
+
+Clean as You Go: Basic Hygiene in the Modern Data Stack (DE Summit)
+
 
 When my children walk around the house, they generally leave a trail of mess behind them. They sometimes realize that they shouldn't be doing this, but they’re so excited to move on to the next thing that catches their eye that they’ll say “Oh, I’ll clean it up later.”
 
