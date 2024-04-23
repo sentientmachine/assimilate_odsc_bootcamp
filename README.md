@@ -83,6 +83,22 @@ In Machine Learning projects, one starts by exploring the data and training an i
 While data scientists have long been improving data through manual labor, data-centric AI studies algorithms to do this automatically. This tutorial will teach you how to operationalize fundamental ideas from data-centric AI across a wide variety of datasets (image, text, tabular, etc). We will cover recent algorithms to automatically identify common issues in real-world data (label errors, bad data annotators, outliers, low-quality examples, and other dataset problems that once identified can be easily addressed to significantly improve trained models). Open-source code to easily run these algorithms within end-to-end Data Science projects will also be demonstrated. After this tutorial, you will know how to use models to improve your data, in order to immediately retrain better models (and iterate this data/model improvement in a virtuous cycle).
 
 
+### Linear Algebra with John K Rohn is good
+
+Programming: All code demos will be in Python so experience with it or another object-oriented programming language would be helpful for following along with the code examples.
+
+Mathematics: Familiarity with secondary school-level mathematics will make the class easier to follow along with. If you are comfortable dealing with quantitative information -- such as understanding charts and rearranging simple equations -- then you should be well-prepared to follow along with all of the mathematics.
+
+Github repository for the original Notebook  https://github.com/jonkrohn/ML-foundations/tree/master/notebooks
+Linear Algebra Colab 1  https://colab.research.google.com/github/jonkrohn/ML-foundations/blob/master/notebooks/1-intro-to-linear-algebra.ipynb
+Linear Algebra Colab 2 https://colab.research.google.com/github/jonkrohn/ML-foundations/blob/master/notebooks/2-linear-algebra-ii.ipynb
+
+Google Drive to Files  https://drive.google.com/drive/folders/1HPiLTf4u-hXJd7ISTHrI28IBls8n4UxG?usp=sharing
+
+Jupyter Notebooks Guide
+ https://docs.google.com/document/d/1vpASB2kjn_XUGTJNwknhIEDWfK8cMhq7v8vyoggmw5M/edit#heading=h.wp9t8n7j3og
+
+
 
 # Slide downloads
 
