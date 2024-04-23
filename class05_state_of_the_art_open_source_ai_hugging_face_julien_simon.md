@@ -1,4 +1,7 @@
 
+julsimon@huggingface.co  
+youtube.com/juliensimonfr
+
 
 llaama 3.
 
