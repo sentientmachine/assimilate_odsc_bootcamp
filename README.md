@@ -42,6 +42,26 @@ vip platinum gold silver bootcamp.
 [class08_ben_needs_a_friend_llvm_benjamin_batorsky.md](./class08_ben_needs_a_friend_llvm_benjamin_batorsky.md)
 
 
+
+Good:
+Machine Learning: Jon k Rohn's https://www.linkedin.com/in/jonkrohn
+At Nebula:
+https://www.linkedin.com/company/nebula-io
+Generative A.I. with Open-Source LLMs: From Training to Deployment with Hugging Face and PyTorch Lightning
+Parts of this training will be accessible to anyone who would like to understand how to develop commercially-successful data products in the new paradigm unleashed by LLMs like GPT-4. To make the most of this training, attendees should be proficient in deep learning and Python programming. Jon Krohn's "Deep Learning with PyTorch and TensorFlow" training on April 23rd provides the neural-network foundations for this generative A.I. training.
+Tools/Languages utilized: Google Colab and Paperspace, Python
+Code can be found in the aptly named code directory (
+https://github.com/jonkrohn/NLP-with-LLMs/tree/main/code
+Jupyter Notebooks are directly supported for execution in Google Colab
+https://colab.research.google.com/
+.py files are for running at the command line (see instructions)
+N.B.: Code is intended to be accompanied by live instructions and so it will not necessarily be self-explanatory.
+https://github.com/jonkrohn/NLP-with-LLMs
+https://github.com/jonkrohn/DLTFpT/blob/master/notebooks/softmax_demo.ipynb
+
+
+
+
 Idiomatic Pandas 2pm to 3pm  with matt harrison metasnake.  python and data science corporate trainer consultant.  ODSC East 2024 Prerequisites 100% Prerequisites to download:
 1. Install pandas on your machine (using Anaconda or pip).
 2. Install Jupyter on your machine.
