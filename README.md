@@ -20,7 +20,13 @@
 
 # Day 2
 
-...
+state of the art open source AI with Hugging face
+
+[class05_state_of_the_art_open_source_ai_hugging_face_julien_simon.md](./class05_state_of_the_art_open_source_ai_hugging_face_julien_simon.md)
+
+
+
+
 
 # Slide downloads
 
