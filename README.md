@@ -44,6 +44,20 @@ by Benjamin Batorsky, PHD Technical Lead d3lve.
 https://www.linkedin.com/in/benjamin-batorsky/
 
 
+Idiomatic Pandas 2pm to 3pm  with matt harrison metasnake.  python and data science corporate trainer consultant.  ODSC East 2024 Prerequisites 100% Prerequisites to download:
+1. Install pandas on your machine (using Anaconda or pip).
+2. Install Jupyter on your machine.
+3. Launch Jupyter and run the following: https://github.com/mattharrison/effective_pandas_book/blob/main/02-install-code.ipynb  
+Github: https://github.com/mattharrison/effective_pandas_book
+Prerequisites to download:
+1. Install pandas on your machine (using Anaconda or pip).
+2. Install Jupyter on your machine.
+3. Launch Jupyter and run the following: https://github.com/mattharrison/effective_pandas_book/blob/main/02-install-code.ipynb
+Github: https://github.com/mattharrison/effective_pandas_book
+
+
+
+
 
 
 How to Practice Data-Centric AI and Have AI Improve its Own Dataset (DE Summit) with Jonas Mueller , Chief Scientist and Co-Founder | Cleanlab 
