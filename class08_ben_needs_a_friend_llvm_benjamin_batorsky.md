@@ -22,7 +22,17 @@ All notebooks will be on Kaggle and should have all models + data attached to th
 
 https://github.com/bpben/bagging_to_bert
 
-
+This get assimilate:
 https://www.kaggle.com/bpoben/code
+
+https://www.kaggle.com/code/bpoben/ben-needs-a-friend-in-context-learning/notebook
+'edit my copy' produces a temp:
+https://www.kaggle.com/code/scratchpad/notebook70bdd318ab/edit
+
+He dives into LLVM's later.
+Dump it all into google colab via the pull method
+Stored local
+
+
 
 

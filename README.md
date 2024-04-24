@@ -30,7 +30,6 @@ Get rebuff API key, get usage hook to chat.openai.com.
 
 [class07_data_science_biotech_reearch_pharma_eric_ma_phd.md](./class07_data_science_biotech_reearch_pharma_eric_ma_phd.md)
 
-
 Dive into the lightning ai open source stack and lightning studios to unlock reproducible ai development on the cloud by Luca Antiga.  Lightning AI, CTO.  https://www.linkedin.com/in/lantiga/  Pytorch llightning leading open source framework.
 
 
@@ -39,12 +38,16 @@ The next generation of llm powered productions.
 vip platinum gold silver bootcamp.
 
 
+!!!
+Assimilate all this: https://www.kaggle.com/code  trending
 
+
+Pipe his IPYNB's into google colab and reproduce his work
 [class08_ben_needs_a_friend_llvm_benjamin_batorsky.md](./class08_ben_needs_a_friend_llvm_benjamin_batorsky.md)
 
 
 
-Good:
+Good: (flatten to class09)
 Machine Learning: Jon k Rohn's https://www.linkedin.com/in/jonkrohn
 At Nebula:
 https://www.linkedin.com/company/nebula-io
@@ -74,6 +77,7 @@ Prerequisites to download:
 3. Launch Jupyter and run the following: https://github.com/mattharrison/effective_pandas_book/blob/main/02-install-code.ipynb
 Github: https://github.com/mattharrison/effective_pandas_book
 
+[class10_using_graphs_for_large_feature_engineering_pipelines_wes_madrigal.md](./class10_using_graphs_for_large_feature_engineering_pipelines_wes_madrigal.md)
 
 
 
@@ -89,6 +93,9 @@ While data scientists have long been improving data through manual labor, data-c
 * get Assimilate
 
 https://github.com/jonkrohn/DLTFpT/blob/master/notebooks/deep_net_in_pytorch.ipynb
+
+website:
+https://www.jonkrohn.com/resources
 
 
 Programming: All code demos will be in Python so experience with it or another object-oriented programming language would be helpful for following along with the code examples.
@@ -135,6 +142,75 @@ Piles of small cleanup tasks for later Confusion among peers who try to use inco
 Ori Nakar Imperva Principal engineer threat research
 
 Jonathan azaria imperva data science tech lead.
+
+
+
+# Day 3
+
+Trust, Transparency and secured generative AI
+9:00AM to 9:25AM
+Ballroom B
+Kate Soule IBM program director generative AI research
+https://www.linkedin.com/in/katesoule
+1 person startup: "IBM": https://www.linkedin.com/company/ibm/
+Jon Krohn will give an LLVM class from 11AM to 4PM.
+
+Learning from mistakes: Empowering Humans to use AI the right way in high stakes decision making
+9:30AM to 9:55AM
+Ballroom B
+Hilke Schellmann author of "The algorithm" assistant professor of journalism, new york university
+https://www.linkedin.com/in/hilkeschellmann
+Hachette Book Group: https://www.linkedin.com/company/hachette-book-group
+
+
+How to Scale Trustworthy AI
+10:00AM to 10:30AM
+Ballroom B
+Paul Hake Principal AI Engineer, IBM
+https://www.linkedin.com/in/paul-hake
+
+
+From Code to Trust Embedding Trustworthy proactices across the AI Lifecycle
+10:00AM to 10:30
+Ballroom A
+Vrushali Sawant SAS Data Scientist Data Ethics Practice
+https://www.linkedin.com/in/vrushalipsawant/
+
+
+Choose:
+Book Author: Quick Start Guide to large language Models
+10:30AM to 11:00AM
+Sinan Ozdemir LoopGenius, AI and LLM Expert Author and cofounder CTO
+https://www.linkedin.com/in/sinan-ozdemir
+Expo Hall Networking Area
+
+Who wants to live forever?  Reliability engineering and mortality.
+11AM to 11:30
+Allen Downey Phd Brilliant.org
+https://www.linkedin.com/in/allendowney
+Ballroom B
+
+
+Choose:
+Generative AI with opensource llms from training to deployment Hugging face and pytorch lightning.
+Dr Jon Krohn.
+11:00AM to 4PM
+https://www.linkedin.com/in/jonkrohn/
+Room 312
+
+
+Developing Credit Scoring Models for banking and Beyond
+Room 304
+11AM to 1PM
+Aric Labarr PHD Institute for Advanced Analytics at NC state university
+
+LLMs Meet Google cloud  A new frontier in big data analytics.
+11AM to 1PM
+Room 302
+Mohammad Soltanieh-ha
+Rohan Johar
+
+
 
 
 
