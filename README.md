@@ -192,12 +192,16 @@ https://www.linkedin.com/in/allendowney
 Ballroom B
 
 
-Choose:
+# Choose:
 Generative AI with opensource llms from training to deployment Hugging face and pytorch lightning.
 Dr Jon Krohn.
 11:00AM to 4PM
 https://www.linkedin.com/in/jonkrohn/
 Room 312
+SLIDES
+https://docs.google.com/presentation/d/1fyPAj5NTR7jGaONnOJr9kSjm-uCTi3DEjgcBpeZISeo/edit#slide=id.p3
+CODE:
+
 [class11_generative_ai_opensource_llms_hugging_face_pytorch_jon_krohn.md](./class11_generative_ai_opensource_llms_hugging_face_pytorch_jon_krohn.md)
 
 
@@ -285,6 +289,13 @@ VIRTUAL8:
 Everything About Large Language Models: Pre-training, Fine-tuning, RLHF & State of the Art
 Chandra Khatri , VP, Head of AI | Krutrim
 Generative Large Language Models like GPT4 have revolutionized the entire tech ecosystem. But what makes them so powerful? What are the secret components which make them generalize to a variety of tasks? In this talk, I will present how these foundation models are trained. What are the steps and core-components behind these LLMs? I will also cover how smaller, domain-specific models can outperform general purpose foundation models like ChatGPT on target use cases
+
+
+
+Strategies for implementing responsible AI governance and risk management
+room 306
+beatrice botti double verify
+https://www.linkedin.com/in/beatricebotti/
 
 
 
