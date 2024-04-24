@@ -180,9 +180,10 @@ https://www.linkedin.com/in/vrushalipsawant/
 Choose:
 Book Author: Quick Start Guide to large language Models
 10:30AM to 11:00AM
+Expo Hall Networking Area
 Sinan Ozdemir LoopGenius, AI and LLM Expert Author and cofounder CTO
 https://www.linkedin.com/in/sinan-ozdemir
-Expo Hall Networking Area
+
 
 Who wants to live forever?  Reliability engineering and mortality.
 11AM to 11:30
@@ -204,11 +205,26 @@ Room 304
 11AM to 1PM
 Aric Labarr PHD Institute for Advanced Analytics at NC state university
 
-LLMs Meet Google cloud  A new frontier in big data analytics.
+
+LLMs Meet Google cloud.  A new frontier in big data analytics.
 11AM to 1PM
 Room 302
 Mohammad Soltanieh-ha
 Rohan Johar
+
+
+WOW!  20 years Quant Bloomberg.
+Imputation of financial data using collaborative filtering and generative machine learning
+Ballroom A
+11:00AM to 11:30
+Arun Verma PhD bloomberg, head of quant research.
+https://www.linkedin.com/in/arun-verma-0858b8/
+
+Applied to bloomberg job application steps lol.
+
+
+
+
 
 
 
