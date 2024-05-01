@@ -1,5 +1,7 @@
 # assimilate_odsc_bootcamp
 
+https://odsc.com/boston/2024-prereqs/
+
 3 Goals:
 
 1. Reverse Engineer the brain using odsc gain of compute functions.
@@ -202,6 +204,18 @@ SLIDES
 https://docs.google.com/presentation/d/1fyPAj5NTR7jGaONnOJr9kSjm-uCTi3DEjgcBpeZISeo/edit#slide=id.p3
 CODE:
 
+ReRead and reimplement:
+
+https://arxiv.org/pdf/1802.05365.pdf
+
+Best language model:
+Anthropic's claude 3 opus (see slides SOTA)
+https://www.anthropic.com/news/claude-3-family
+Google's Gemini 1.0 ultra. (see slides SOTA)
+OpenAI's GPT-4 (see slides SOTA)
+
+See Mixtral 8x7B and 8x22B
+elmo things class 11:
 [class11_generative_ai_opensource_llms_hugging_face_pytorch_jon_krohn.md](./class11_generative_ai_opensource_llms_hugging_face_pytorch_jon_krohn.md)
 
 
@@ -296,6 +310,247 @@ Strategies for implementing responsible AI governance and risk management
 room 306
 beatrice botti double verify
 https://www.linkedin.com/in/beatricebotti/
+rdrails for data teams embracing a platform approach for workfloat management
+11AM to 11:30
+bill palombi
+https://www.linkedin.com/in/billpalombi
+jeff hale
+
+
+hpcc systems - the definitive big data open source platform
+demo theater expo hall
+Bob foreman
+https://www.linkedin.com/in/bobforeman/
+LexisNexis risk solutions.
+
+
+beyond ML ops building AI systems with Metaflow
+Ballroom A
+Ville Tuulos cofound outerbounds
+
+
+Accellerating the LLM lifecycle on the cloud
+11:35 to 12:05
+Luca Antiga
+
+
+data pipeline architecture stop building monoliths
+elliott cordo founder ceo data futures
+
+
+The unreasonable effectiveness of an asset graph
+Sean Lopp by dagster labs
+
+machine learning with xgboost
+12:05 to 1:05
+matt harrison metasnake
+
+
+Fyte A production-ready open source ai platform
+12:10PM to 12:40PM
+Ballroom A
+Thomas J Fan Union.ai
+
+AI as an engineering Discipline
+12:10 to 12:40
+Yucheng Low Phd cofounder xehub
+
+
+YES:
+https://www.youtube.com/watch?v=kCc8FmEb1nY
+
+
+# Day 4
+
+Algorithmic Auditing
+9:00AM to 9:25 Ballroom B
+She says Orcaa.ai is hiring.  apply
+Cathy o'neil ceo data scientist author nyt best seller weapons of math destruction
+The Shame Machine!!!
+Fairness engine.  Racism machine.  Discrimination machines.  Blame machines. 
+https://cathyoneil.org/
+https://www.linkedin.com/company/orcaa-ai/
+Is FICO Score legitimate can the racism and race agenda from on high be furthered by using AI on FICO to confirm or deny systematic unfairness?
+Explainable Fairness.  Really calculate it out, is 1/8th black worse than 1/4th woman by these rank of disability insurance. 
+Outcome of Interest as decider.  Dispassionate, non-Religious.  
+
+
+Accellerating AI Adoption for DoD Decision Advantage
+9:30AM to 9:55AM Ballroom B 
+https://www.linkedin.com/in/bill-streilein-084a78
+Dr William Bill W Streilein DoD Chief Digital and Ai Office, CTO
+WOW MIT Lincoln Labs prior experience.
+ENHANCED BATTLESPACE AWARENESS.
+--He Recommends: "https://www.tradewindai.com/"  oh shit, shield.
+Share the best models, don't just hide and silo them.
+Joint warfighting, army navy airforce, how they come together to project force.
+provide interoperatation capabitly, ecosystem.  Expanded digital talent management.
+MLOPS = Bring the data in, iterate on the data, monitor it, Senitized data. 
+DoD isn't where the innovation comes from.  Develop abilities outside the DOD and they will put it into the bots.
+"Task Force Lima", we're hiring.  We can't get this code shit to work and we need you to build it.
+Accellerate the use cases and how to bring generative AI to the DoD space.
+
+
+
+Large Language odels as Building Blocks
+Jay Alammar cohere director engineering fellow NLP
+https://www.linkedin.com/in/jalammar/
+Cohere AI.
+https://www.linkedin.com/company/cohere-ai/
+
+Accellerating AI Adoption for DoD Decision Advantage
+https://www.linkedin.com/in/bill-streilein-084a78/
+National security JAIC Center: 
+https://en.wikipedia.org/wiki/Joint_Artificial_Intelligence_Center
+AI isn't AI anymore when you know how it works and you can do it.
+He likes IBM Watson.  Beat the then winner on Jeopardy.
+Alphafold predicting the structure of protiens given information.  Algorithm able to figure it out.
+Conversational AI and chatGPT, super excited.
+
+
+All models great and small: It's 2024 you don't have to use gpt-4 for everything anymore
+john dickerson PhD author, co-founder chief scientist
+https://www.linkedin.com/in/john-dickerson
+
+
+Being, Training, and Employing Data scientists wisdoms and warnings from harvard data science review
+10:00AM to 10:30AM
+Dr Xiao-Li meng
+harvard data science review whipple jones founding editor in chief, professor of statistics.
+What does it mean to be a successful data scientist.
+
+
+Data Morph a Cautionary Tale of summary statistics
+11AM to 11:30AM  Room 302
+Stefanie Molin bloomberg, data scientist software engineer author of hands on data with pandas
+https://www.linkedin.com/in/stefanie-molin
+Get a handle on statistics.
+https://www.linkedin.com/company/bloomberg/
+
+
+10 quick wins to expidite your job search 
+11AM to 11:30AM
+Adam Ross Nelson Up level data llc data scientist and career coach.
+https://www.linkedin.com/in/arnelson/
+1.  Mindset, make life better for others is the meaning of life.
+2.  Use a second strategy, not just one like you're doing
+3.  Online job posting is the biggest way someone got a job, next is through a friend.
+4.  Do more of what is working and less of what isn't working. 
+5.  Professionalism is just a way to control others.  Show up on time, speak in full sentences.  
+6.  Reconnect with an early boss I don't care how long it's been.
+7.  Tell your friends and family what you're career goals are, they can make something come through.  Referrals.
+8.  Chat with Recruiters.  
+9.  Post job opportunities for others, network at networking.
+10.  Chronological, not functional. 
+11.  Refreshing portfolio impressions.  
+12.  
+Professionalism means: "Be less like you and more like me".
+
+
+Training an openAI quality text embedding model from scratch
+11AM to 11:30AM
+Room 306
+Andriy Mulyar Nomic AI Founder and CTO
+https://www.linkedin.com/in/andriymulyar
+
+
+Trial, Error, Triumph lessons learned using LLMs for creating machine learning training data
+11AM to 11:30
+Ballroom B
+Matt Dzugan muck rack director of data
+https://www.linkedin.com/in/mattdzugan/
+Company:
+https://www.linkedin.com/company/muckrack/
+
+
+
+End to End deep learning for time series forecasting and analysis
+11AM to 12:00PM
+Room 312
+Isaac Godfried simspace senior data scientist.
+https://www.linkedin.com/in/isaac-godfried-70874466/
+Kaggle link to files:
+https://www.kaggle.com/code/isaacmg/avocado-price-forecasting-with-flow-forecast-ff
+AI Camp tutorial:
+https://www.youtube.com/watch?v=dZzs0EdFkiE
+Speaker: Isaac Godfried
+https://github.com/AIStream-Peelout/flow-forecast
+
+
+Practical applications of bayesian statistics for business data science team
+11:35AM to 12:05
+Room 304
+Matt DiNauta principal applied scientist, zillow.
+https://www.linkedin.com/in/matt-dinauta/
+Applied to Zillow
+https://www.linkedin.com/company/zillow/
+
+
+--good contact
+Generative AI Guardrails for enterprise LLM solutions
+11:35 to 12:05PM
+Room 302
+Preethi Raghavan Fidelity Vice president NLP
+https://www.linkedin.com/in/preethi-raghavan-26669a2/
+Apply to Fidelity, ooh green pyramid symbology.
+https://www.linkedin.com/company/fidelity-investments/
+
+
+
+Harnessing GPT Assistants for superior model ensembles: A beginner's guide to
+AI stacked classifiers
+12:05PM to 1:05PM 
+Room 312.
+Jason Merwin, PHD
+https://www.linkedin.com/in/jason-merwin-7bb05013/
+Instructions:
+https://drive.google.com/file/d/1PoSa9h490a00LxUjaBOr58NnwTtLsCXA/view
+Github with ipynb's
+https://github.com/jrmerwin/ODSC_East_4.25.24/tree/main
+
+
+Model Evaluation in LLM-enhanced products
+12:10PM to 12:40PM Ballroom B
+Sebastian Gehrmann PhD.
+Head of NLP Bloomberg.
+https://www.linkedin.com/in/sebastiangehrmann/
+
+sgehrmannn8@bloomberg.net
+
+
+
+Conversational Data Inelligence Transforming data interaction and analysis
+2pm to 2:30PM Room 302
+Kevin Rohling
+Presence product group head of AI Engineering.
+https://www.linkedin.com/in/krohling
+Company Presence
+https://www.linkedin.com/company/presence-llc-/
+github.com/krohling
+kevinrohling.com
+
+
+Bringing precision medicine to the field of metal healthcare through llm ai and psychedelics
+room 306
+Gregory Rysilk PhD
+
+
+LongChain on Kubernetes cloud native llm deployment made easy and efficient
+2:35PM to 3:05PM
+Room 304
+Ezequiel lanza Intel open source evangelist.
+https://www.linkedin.com/in/ezelanza/
+
+
+
+
+
+
+
+
+
+
+
 
 
 
