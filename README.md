@@ -1,16 +1,8 @@
 # assimilate_odsc_bootcamp
 
-https://odsc.com/boston/2024-prereqs/
+https://odsc.com/boston/2024-prereqs
 
-3 Goals:
-
-1. Reverse Engineer the brain using odsc gain of compute functions.
-2. Find someone who can implement LLVM's and ChatGPT and buy them coffee.
-3. Get a job doing pure research and demos for replicating whatever ChatGPT is doing in modified domains.  
-
-# Class list, clicky
-
-## Day 1
+## Day 1 - Virtual class day.
 
 [class01_data_wrangling_with_python_with_Sheamus_McGovern.md](./class01_data_wrangling_with_python_with_Sheamus_McGovern.md)
 
